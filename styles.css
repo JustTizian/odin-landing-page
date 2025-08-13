@@ -112,6 +112,29 @@ li > a{
     padding-bottom: 120px;
 }
 
+.quote-box{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 400px;
+    gap:20px;
+}
+
+.quoute-text{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1F2937;
+}
+
+.author-text{
+    font-weight: bold;
+    font-size: 24px;
+    align-self: flex-end;
+    padding: 0px 50px;
+}
 
 
 
