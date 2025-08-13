@@ -75,6 +75,17 @@ li > a{
     margin-top: 20px ;
 }
 
+.image-placeholder{
+    width: 500px;
+    height: 200px;
+    background-color: #79869f;
+    color:#E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
 .info-header-text{
     font-size: 36px;
     color: #1F2937;
